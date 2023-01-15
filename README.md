@@ -27,6 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any errors in the console.
 
-#Product Walkthrough
-https://user-images.githubusercontent.com/83918978/212554468-a111f16f-d562-4a03-812f-e26ffbda364b.mp4
+# Product Walkthrough
 
+https://user-images.githubusercontent.com/83918978/212554468-a111f16f-d562-4a03-812f-e26ffbda364b.mp4
