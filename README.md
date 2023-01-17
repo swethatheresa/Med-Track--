@@ -1,5 +1,5 @@
 # Med-Track--
-A webapp to keep track of paatients in a ward with features to login medicine details and provide alerts when not delivered.
+A webapp to keep track of patients in a ward with features to login medicine details and provide alerts when not delivered.
 
 # App Preview
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/83918978/212554285-362d43be-bec2-4fdb-8385-54a700f2206c.png">
